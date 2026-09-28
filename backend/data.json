@@ -1,0 +1,17 @@
+{
+  "watchlist": [
+    {
+      "symbol": "NSE.BO",
+      "thresholdPercent": 1.5,
+      "windowMinutes": 5,
+      "stable": true,
+      "volatilityPercent": 0,
+      "addedAt": 1790572612905,
+      "growing": null,
+      "longTermReturnPercent": null,
+      "lastCheckedStableAt": 1790577459537
+    }
+  ],
+  "devices": [],
+  "alerts": []
+}

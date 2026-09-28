@@ -1,0 +1,7 @@
+{"_e":"root:init","_t":1790397443710,"format":"v0-jsonl","version":"57.0.27"}
+{"_e":"env:mode","_t":1790397443711,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790397443715,"mode":"development","files":["../..\\..\\.env"],"env":{"ALERT_COOLDOWN_MINUTES":"10","API_KEY":"918c155c457990cb7a24f85014499b0a4b275465cb085f42","DEFAULT_THRESHOLD_PERCENT":"1.5","DEFAULT_WINDOW_MINUTES":"5","MARKET_CLOSE":"15:30","MARKET_OPEN":"09:15","POLL_INTERVAL_SECONDS":"20","PORT":"4000","VOLATILITY_LOOKBACK_DAYS":"30","VOLATILITY_STABLE_CUTOFF":"25"}}
+{"_e":"devserver:start","_t":1790397446845,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790397450459,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790397452616,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790397460108,"atlas":false,"workers":8,"host":"::","port":8081}
